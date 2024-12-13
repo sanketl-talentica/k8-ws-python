@@ -1,0 +1,2 @@
+inventory-service : https://hub.docker.com/repository/docker/sanket1talentica/inventory-service/general
+order-service : https://hub.docker.com/repository/docker/sanket1talentica/order-service/general
